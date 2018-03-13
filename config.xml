@@ -37,6 +37,8 @@
         <supports-screens android:xlargeScreens="true" android:largeScreens="true" android:smallScreens="true" />
         <application android:theme="@android:style/Theme.NoTitleBar" >            
         </application>
-    </gap:config-file>    
+    </gap:config-file>
+        <preference name="android-targetSdkVersion" value="22"/>
+
     
 </widget>
